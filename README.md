@@ -5,15 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The basic idea is to gather data on football / soccer games and use that data to create simulated characters to Fifa video game. The data could include for example:
- - player position on game field
- - player distance to ball
- - player movement with ball
- - player eagerness to make goals vs. passing
- - player aggressiveness
- 
- This project is only an idea. Perhaps the game companies are already doing something similar.
-
+The basic idea is to gather player data from real life football / soccer games and use that data to create simulated characters to Fifa video game.
 
 ## Background
 
